@@ -1,6 +1,6 @@
 
 # Create with vagrant 3 VMs
-Vagrant creating two VMs with nginx installed and one with mysql installed
+Vagrant creating 3 VMs, two of them with 2 GB RAM and 2 CPUs
 
 ## pre-requirements
 
